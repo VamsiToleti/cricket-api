@@ -2,3 +2,11 @@ body{
     background-color: aqua;
     color: black;
 }
+
+body{
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color: black;
+}
